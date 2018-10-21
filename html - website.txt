@@ -1,7 +1,7 @@
 <!doctype html>
 <html> 
     <head>
-	<title>Rodolfo Lopez</title>
+	<title>Randy Abdalla</title>
 	<link rel="stylesheet" type="text/css" href="style.css"> 
     </head> 
 
