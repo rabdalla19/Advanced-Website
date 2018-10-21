@@ -1,0 +1,47 @@
+<!doctype html>
+<html> 
+    <head>
+	<title>Rodolfo Lopez</title>
+	<link rel="stylesheet" type="text/css" href="style.css"> 
+    </head> 
+
+    <body> 
+
+	<div class="header">
+	 <h1>Header,/h
+	</div>
+
+	<div class="topnav">
+	    <a href="index.html">Index</a>
+	    <a href="page2.html">Page2</a> 
+	    <a href="page3.html">Page3</a> 
+	</div>
+
+    <div class="row">
+    <div class="column">
+	<h2>Column</h2> 
+	 <p>
+	 Paragraph 1 
+	 </p> 
+      </div>
+      <div class="column">
+	<h2>Column</h2> 
+	 <p> 
+	 Paragraph 2
+	 </p> 
+      </div> 
+      <div class="column"> 
+	<h2>Column</h2> 
+	 <p> 
+	 Paragraph 3 
+	 </p> 
+      </div>
+      </div> 
+
+      <div class="footer"> 
+	 <p>Footer</p>
+      </div> 
+
+      </body> 
+
+</html> 
